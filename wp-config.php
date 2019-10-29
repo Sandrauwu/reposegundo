@@ -26,7 +26,7 @@ define( 'DB_NAME', 'chana' );
 define( 'DB_USER', 'admin' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 'f163a88eca7ad22c9cbdd6a212' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
